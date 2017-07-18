@@ -1,0 +1,19 @@
+{
+  "name": "agendaly",
+  "version": "1.0.0",
+  "description": "A simple api - agendaly",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "express-myconnection": "^1.0.4",
+    "express-validator": "^3.2.0",
+    "mysql": "^2.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sam Uel",
+  "license": "MIT"
+}
